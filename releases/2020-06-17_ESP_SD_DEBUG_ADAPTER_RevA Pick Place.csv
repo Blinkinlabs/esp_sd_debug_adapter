@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Users\matt\Desktop\esp_sd_debug_adapter\Project Outputs for esp_sd_debug_adapter\Pick Place\Pick Place for esp_sd_debug_adapter.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/06/20
+Time:       13:52
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Footprint","Center-X(mm)","Center-Y(mm)","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Layer","Rotation","Comment"
+"R1","ERJ6G(0805)_L","1.2000","-8.8000","1.2000","-8.8000","1.2000","-8.0250","BottomLayer","270","0.0"
+"J1","1.27mm_2x5_SMD_Header","5.5000","-8.8000","5.5000","-8.8000","2.9600","-10.7500","TopLayer","360","JTAG"
