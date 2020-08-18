@@ -1,6 +1,6 @@
 # MicroSd to JTAG adapter for ESP32 debugging
 
-<img src="https://raw.githubusercontent.com/Blinkinlabs/esp_sd_debug_adapter/master/releases/2020-06-17_ESP_SD_DEBUG_ADAPTER_RevA_render.jpg" width="400">
+<img src="https://raw.githubusercontent.com/Blinkinlabs/esp_sd_debug_adapter/master/releases/2020-08-18_ESP_SD_DEBUG_ADAPTER_RevA_assembled.jpg" width="400">
 
 A connector to allow you to debug an ESP32 through the MicroSD connector on your board. Note that the MicroSD card slot needs to be wired with a 4-wire SDMMC connection for this to work, and that your target firmware needs to disable the SDMMC pins for this to work.
 
